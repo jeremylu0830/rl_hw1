@@ -1,7 +1,6 @@
 # 強化學習作業一：MDP、Q-Learning 與 DQN
 
-> **課程：** CS885 強化學習  
-> **主題：** 從馬可夫決策過程到深度 Q 網路的實作與分析
+> **課程：** [CS885 強化學習](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-winter22/assignments.html)
 
 ---
 
